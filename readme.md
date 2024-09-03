@@ -3,7 +3,7 @@
 
 ## Description
 
-This project integrates the Safaricom M-Pesa Daraja API with a Node.js backend and a Svelte frontend. It enables functionalities such as sending STK Push requests, tracking payment status, receiving funds, and withdrawing funds.
+This project integrates the Safaricom M-Pesa Daraja API with a Node.js backend and a Svelte frontend. It enables functionalities such as sending STK Push requests, tracking payment status, receiving funds, and withdrawing funds. It uses firebase firestore as the defaultdatabase to store transactions
 
 ## Project Structure
 
